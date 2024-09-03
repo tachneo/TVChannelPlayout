@@ -52,7 +52,7 @@ A comprehensive TV channel playout system built with Python and PyQt5. This syst
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/TVChannelPlayout.git
+    git clone https://github.com/tachneo/TVChannelPlayout.git
     cd TVChannelPlayout
     ```
 
